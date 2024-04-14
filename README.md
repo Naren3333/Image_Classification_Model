@@ -1,6 +1,7 @@
 # Image Classification Model
 - Sequential Model
 - Data from : https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset?select=dataset    and also from google. (Downloaded using extension)
+- Classifies Happy vs Sad faces.
 
 ## Tools used
 - Used tensorflow and cv2
